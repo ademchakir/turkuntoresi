@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@mdi/font": "^7.4.47",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "element-plus": "^2.9.11",
+    "vue": "^3.4.0",
+    "vue-confetti-explosion": "^1.0.2",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
