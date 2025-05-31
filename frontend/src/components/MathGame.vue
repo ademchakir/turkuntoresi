@@ -40,7 +40,7 @@
         </div>
         <div v-else class="wrong">
           <i class="mdi mdi-emoticon-sad text-6xl text-red-500"></i>
-          <p class="text-2xl">Üzgünüm, tekrar dene!</p>
+          <p class="text-2xl">Üzgünümm, tekrar dene!</p>
         </div>
       </div>
 
